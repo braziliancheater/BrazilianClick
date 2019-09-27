@@ -6,7 +6,7 @@ a um tempão atras eu resolvi mexer com o codigo do b1ac, decidi q ia arrumar a 
 como o ac e feito em c# eu resolvi postar aq e dar release em algum lugar ja q e n precisa de muito pra ver o codigo
 
 edit
-se você quiser usar o codigo no seu visual studio primeiro você tem q importar a dll que eu adicionem na / ja que o limite de arquivos pela web e 100 e n deu pra upar junto :/
+se você quiser usar o codigo no seu visual studio primeiro você tem q importar a dll que eu adicionei na / ja que o limite de arquivos pela web e 100 e n deu pra upar junto :/
 
 ta ai uma foto dele:
 ![alt text](https://i.imgur.com/Z7vod8c.png)
