@@ -1,4 +1,4 @@
-# BrazilianClicker
+# BrazilianClicker C# old version
 C# Autoclicker mostly for Minecraft
 
 bom quase todo o codigo vem do https://github.com/b1scoito/b1ac
